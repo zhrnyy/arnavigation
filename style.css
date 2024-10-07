@@ -6,4 +6,5 @@ body {
   font-size: 12px;
   line-height: 24px;
   overscroll-behavior: none;
+  background-color: lightblue;
 }
